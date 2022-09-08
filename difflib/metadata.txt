@@ -1,0 +1,4 @@
+srctype = cpython
+type = module
+version = 3.5.7-1
+depends = collections, heapq, re-pcre, string
